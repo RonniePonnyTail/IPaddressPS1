@@ -1,0 +1,1 @@
+Set-NetIPInterface -InterfaceIndex 12 -Dhcp Enabled

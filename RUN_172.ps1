@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Unrestricted -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Unrestricted -File ""C:\Users\Admin\Desktop\IP_172.168.0.49.ps1""' -Verb RunAs}";

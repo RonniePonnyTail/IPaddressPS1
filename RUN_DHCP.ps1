@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Unrestricted -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Unrestricted -File ""C:\Users\Admin\Desktop\IP_DHCP.ps1""' -Verb RunAs}";
